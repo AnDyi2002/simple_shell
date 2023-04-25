@@ -1,4 +1,5 @@
 #include "shell.h"
+#include "unsitd.h"
 
 /**
  * interactive - returns true if shell is interactive mode
