@@ -7,6 +7,7 @@
  * constant function
  * Return: Always 0
  */
+
 int _myhistory(info_t *info)
 {
 	print_list(info->history);
